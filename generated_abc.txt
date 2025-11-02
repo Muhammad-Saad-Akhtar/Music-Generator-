@@ -1,0 +1,46 @@
+Xbagf edBG|AGFA G2:|!
+
+X:337
+T:Saddle the Pony
+Z: id:dc-jig-137
+M:6/8
+L:1/8
+K:E Dorian
+D|EFE G2A|BAG A2A|BGE FGA|BAG FAG FED:|!
+d3 e2a|fge dBA|Ade fdB|AFA A2:|!
+a|bag fgf|eBB e2f|gfg agf|egf efe e2:|!
+
+X:325
+T:Scotch Mary
+Z: id:dc-jig-116
+M:6/8
+L:1/8
+K:E Dorian
+e2AA BABd|e2dB ABde|fedf e2fe|dBAF D2:|!
+A|G2g2 efgf|efed efga|bagf efga|bagf eGBd|!
+edcB Abag|fedf eBBd|fAeG BAFA|Bdef gfge|dBGB A2FA|!
+G2BG dGBG|AGAB GED|GBd g3:|!
+eaa2 eaa2|gedB GABd|eaaf defg|e2EG EBGB|!
+e2a2 efge|dedB c3d|gaba gfeg|fdcB A2g2|!
+fedf BAA2|cee2 ceae|faed cAAc|dBcA B2:|!
+
+X:143
+T:John Br the Mile Road
+Z: id:dc-reel-327
+M:3/4
+M:C|
+L:1/8
+K:E Dorian
+F|DGAB AGFG|EFDE FDA^c|dcdF GcAG|FDAF G2FG|!
+ABAF DAFA|d^cde dcAd|FGFE D3B|A2FA BGAF|!
+G2BG ABAG|FGAB cBcA|BGG2 BGAF|D2FA GBAG|F2DF EGFD|!
+d3e dcBA|(3GFE (3EFG EFGB|ABAG FDDF|[1 dBAG FDD:|!
+A|defd gfdcA|G2GF GGcd|fagf gfed|^cdef g2ag|fdcA BGAF|!
+GDB,D GFGA|BdcA BGAF|GBdf ecAG|FGAF DGFe|!
+fdec d^cde|fded cAA=F|DGGF GABc|(3dfa gedc|!
+BABc dGBd|edBA GABd|DGBd cAFA|!
+BGG2 BGdG|BGDG BGdG|cBcA BGGB|cAFA cF:|!
+B|dff2 dffe|dedB ABde|feed efge|fded cAd^c|!
+Add2 fded|faa^g a2AB|defd egfd|g2fe fgaf|gedf ecAa|!
+FAA2 e2de|fgaf gedg|ecAG FDD|]!
+Dd|=cfdf e^cA|fga gfg|afd d^cd|fga 
